@@ -31,6 +31,7 @@ namespace DockerDotnetCoreApp
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hello World!");
+				await context.Response.WriteAsync(System.Runtime.InteropServices.RuntimeInformation.OSDescription);
             });
         }
     }
