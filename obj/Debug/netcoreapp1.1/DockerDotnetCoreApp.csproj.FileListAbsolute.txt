@@ -1,0 +1,8 @@
+/Users/vinothbellie/DockerDotnetCoreApp/bin/Debug/netcoreapp1.1/DockerDotnetCoreApp.deps.json
+/Users/vinothbellie/DockerDotnetCoreApp/bin/Debug/netcoreapp1.1/DockerDotnetCoreApp.runtimeconfig.json
+/Users/vinothbellie/DockerDotnetCoreApp/bin/Debug/netcoreapp1.1/DockerDotnetCoreApp.runtimeconfig.dev.json
+/Users/vinothbellie/DockerDotnetCoreApp/bin/Debug/netcoreapp1.1/DockerDotnetCoreApp.dll
+/Users/vinothbellie/DockerDotnetCoreApp/bin/Debug/netcoreapp1.1/DockerDotnetCoreApp.pdb
+/Users/vinothbellie/DockerDotnetCoreApp/obj/Debug/netcoreapp1.1/DockerDotnetCoreApp.AssemblyInfo.cs
+/Users/vinothbellie/DockerDotnetCoreApp/obj/Debug/netcoreapp1.1/DockerDotnetCoreApp.dll
+/Users/vinothbellie/DockerDotnetCoreApp/obj/Debug/netcoreapp1.1/DockerDotnetCoreApp.pdb
