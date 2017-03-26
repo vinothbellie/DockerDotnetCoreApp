@@ -31,7 +31,9 @@ namespace DockerDotnetCoreApp
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hello World!");
+				await context.Response.WriteAsync("Playing with Git and Docker CI World!");
 				await context.Response.WriteAsync(System.Runtime.InteropServices.RuntimeInformation.OSDescription);
+
             });
         }
     }
